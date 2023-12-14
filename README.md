@@ -15,3 +15,13 @@ The DOM Manipulation Calculator allows users to perform basic arithmetic operati
 ## Demo
 
 See the calculator in action: [Live Demo](https://legendary-palmier-2e3c59.netlify.app/)
+
+## Contact
+
+Feel free to reach out if you have any questions or suggestions:
+
+- [GitHub](https://github.com/Suryaprakash-G26)
+- [LinkedIn](https://www.linkedin.com/in/surya-prakash-6b2914191/)
+
+Happy coding! 🚀
+
